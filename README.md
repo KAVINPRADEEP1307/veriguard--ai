@@ -1,2 +1,18 @@
-# veriguard--ai
-VeriGuard AI is a next-gen AI-powered emergency system that detects crisis severity, dispatches smart resources, tracks live locations, and provides real-time insights—enabling faster, smarter, and life-saving decisions when every second matters.
+## 🚨 VeriGuard AI
+
+AI-powered emergency response system for real-time crisis detection and smart resource allocation.
+
+## ⚙️ Features
+
+- 📍 Live Location Tracking → Finds nearest hospital / ambulance  
+- 🤖 ML Model → Predicts severity (Critical / Moderate / Low)  
+- 🚑 Smart Allocation → Assign ambulance, hospital, volunteers  
+- 📊 Dashboard → Real-time crisis map  
+- 🧑‍🤝‍🧑 Volunteer Matching → Nearby alerts  
+
+## 🛠️ Tech Stack
+
+- Streamlit  
+- Python  
+- Scikit-learn  
+- Pandas
