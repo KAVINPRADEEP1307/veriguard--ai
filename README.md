@@ -17,5 +17,4 @@ AI-powered emergency response system for real-time crisis detection and smart re
 - Scikit-learn  
 - Pandas
 
-app:
-https://veriguard--ai-6uwc7kuxgb7n6nnxiylget.streamlit.app
+
