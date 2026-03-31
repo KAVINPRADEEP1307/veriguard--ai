@@ -16,7 +16,7 @@ AI-powered emergency response system for real-time crisis detection and smart re
 - Python  
 - Scikit-learn  
 - Pandas
-- live demo:
+  ## 🔗 live demo
 - https://veriguard--ai-cvqkm3xxnwzpqnmstucghx.streamlit.app/#veriguard-ai
 
 
